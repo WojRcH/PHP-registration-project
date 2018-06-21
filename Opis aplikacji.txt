@@ -1,0 +1,15 @@
+Program s³u¿y do zapisywania siê na zabiegi w klinice.
+U¿ytkownik mo¿e zarejestrowaæ siê na portalu, a póŸniej korzystaæ z zapisów na zabiegi.
+Mo¿e zrzuciæ swój harmonogram zabiegów do pliku pdf, jak równie¿ txt.
+W panelu admina mo¿na dodawaæ sale i lekarzy do bazy.
+
+Dane do logowania pierwszego u¿ytkownika:
+Login:janek
+Has³o:123
+
+Dane do logowania do panelu admina:
+Login:admin
+Has³o:admin
+
+
+

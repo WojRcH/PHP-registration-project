@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+}
+article{
+    float: left;
+}
+aside{
+    float: right;  
+}
+footer{    
+    clear: both;
+    text-align: center;    
+    bottom: 20;
+}

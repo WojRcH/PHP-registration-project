@@ -1,0 +1,1 @@
+Zabiegi: Lekarz: 1 Sala: 1 Data i czas zabiegu: 2018-06-13 04:14:00Lekarz: 1 Sala: 1 Data i czas zabiegu: 2033-12-21 21:56:00Lekarz: 2 Sala: 2 Data i czas zabiegu: 2323-02-03 22:22:00Lekarz: 1 Sala: 1 Data i czas zabiegu: 2003-02-21 23:04:00
